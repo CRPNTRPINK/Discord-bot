@@ -37,4 +37,4 @@ class MyClient(discord.Client):
 
 if __name__ == '__main__':
     client = MyClient()
-    client.run('TOKENS')
+    client.run('TOKEN')
